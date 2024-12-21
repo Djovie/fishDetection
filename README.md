@@ -27,7 +27,7 @@ fishDetection/
 To run this project, you need to have the following installed:
 
 - Python 3.12.x
-- Required Python libraries (install using the `requirements.txt` file if provided)
+- Required Python libraries (PyQt5)
 
 ## Setup and Installation
 
