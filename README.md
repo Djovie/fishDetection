@@ -71,5 +71,3 @@ Contains graphical assets used in the application:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to explore and modify the code to suit your needs!
